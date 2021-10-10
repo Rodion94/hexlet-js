@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Rodion94/hexlet-js/issues"
   },
-  "homepage": "https://github.com/Rodion94/hexlet-js#readme"
+  "homepage": "https://github.com/Rodion94/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
